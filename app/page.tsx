@@ -143,6 +143,6 @@ export default function Portfolio() {
       </footer>
 
     </main>
-    
+
   );
-}git config --global user.name "Autumn Green"
+}
